@@ -1,0 +1,12 @@
+@'
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+sre-agent-env/
+.venv/
+.vscode/
+.idea/
+*.log
+.kube/config
+'@ | Out-File -FilePath .gitignore -Encoding utf8

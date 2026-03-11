@@ -1,0 +1,19 @@
+# Core LangChain (Stable 2026)
+langchain==0.3.0
+langchain-community==0.3.0
+langchain-openai==0.3.0
+langgraph>=0.2.0
+
+# Infrastructure
+kubernetes>=29.0.0
+
+# Security & Networking
+requests>=2.31.0
+pyOpenSSL>=24.1.0
+cryptography>=42.0.0
+
+# Data (Compatible with LangChain 0.3.0)
+numpy>=1.26.0,<2.0.0
+
+# Environment
+python-dotenv>=1.0.1
