@@ -1,6 +1,23 @@
 # 🛡️ Agentic SRE Assistant: Autonomous Infrastructure Healing
-
 An intelligent, **closed-loop automation system** designed to bridge the gap between observability and action. This agent doesn't just monitor logs; it reasons through system failures and autonomously executes remediation steps to maintain 99.9% uptime.
+
+## About Me
+
+Hey there! I'm Viveka Sharma, a Senior TechOps and DevOps Engineer and Agentic AI Developer with 5+ years of experience in infrastructure operations, automation, and observability. I specialize in building intelligent systems that make data work smarter — not harder!
+
+## What I Do Best:
+
+⚙️ Experienced in DevOps & Linux Administration – specialized in infrastructure monitoring, scaling, and system operations.
+
+🤖 Exploring Agentic AI & LLMs – building autonomous agents using LangChain to solve real-world operational bottlenecks.
+
+📊 Observability Specialist – skilled in monitoring stacks (Prometheus, Grafana, ELK) to drive data-driven reliability decisions.
+
+I love experimenting with AI-powered automation for SRE workflows and sharing knowledge with the tech community.
+📬 **Let's Connect and collaborate!**
+
+📧 Email: vivekasharma01@gmail.com
+🔗 LinkedIn:https://www.linkedin.com/in/aiwithviveka/
 
 ## 🚀 The Vision
 
@@ -24,12 +41,23 @@ The system follows the **OODA Loop** (Observe, Orient, Decide, Act):
 
 ## 🚦 Getting Started
 
-### 1. Prerequisites
+### 1. Tech Stack / Tools Used
 
-* Python 3.9+
-* OpenAI API Key
+* Language: Python 🐍
 
-### 2. Installation
+* AI Framework: LangChain, OpenAI GPT-4o
+
+* Libraries: streamlit, python-dotenv, requests, logging, os, time
+
+* IDE/Editor: VS Code 💻
+
+* DevOps Concepts: Log monitoring, Incident response, Chaos Engineering
+
+### 2. Project Structre
+
+   <img width="898" height="390" alt="image" src="https://github.com/user-attachments/assets/5a37313e-94dc-4e2a-a464-ce1264643f71" />
+
+### 3. Installation
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/agentic-sre-assistant.git
@@ -60,6 +88,18 @@ For the best experience, run these in three separate terminal splits:
 * **The Memory Fix:** *"I suspect a memory leak. If any pod is over 90%, restart it."*
 * **The Security Audit:** *"Scan logs for brute-force attempts and notify the security team."*
 * **Full Health Check:** *"Check the health of api.github.com and correlate it with our internal logs."*
+
+## 🚀 Future Improvements
+
+* Kubernetes integration
+
+* Slack / Teams alert notifications
+
+* Prometheus metrics ingestion
+
+* AI-driven root cause analysis
+
+* Autonomous infrastructure healing workflows
 
 ---
 
