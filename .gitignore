@@ -9,4 +9,7 @@ sre-agent-env/
 .idea/
 *.log
 .kube/config
-'@ | Out-File -FilePath .gitignore -Encoding utf8
+'@ | Out-File -FilePath .gitignore -Encoding utf8.env
+sre_logs.log
+__pycache__/
+.DS_Store
