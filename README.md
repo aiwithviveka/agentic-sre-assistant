@@ -14,6 +14,7 @@ Hey there! I'm Viveka Sharma, a Senior TechOps and DevOps Engineer and Agentic A
 📊 Observability Specialist – skilled in monitoring stacks (Prometheus, Grafana, ELK) to drive data-driven reliability decisions.
 
 I love experimenting with AI-powered automation for SRE workflows and sharing knowledge with the tech community.
+
 📬 **Let's Connect and collaborate!**
 
 📧 Email: vivekasharma01@gmail.com
